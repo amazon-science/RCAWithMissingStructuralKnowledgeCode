@@ -1,0 +1,4 @@
+profitops-rca==0.1
+dowhy==0.13
+lingam==1.11.0
+requests==2.32.5
